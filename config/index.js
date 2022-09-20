@@ -88,16 +88,16 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "香甜小姐姐",
+      id: "oIdTH6PEBoKU2CoeQT_YfSFIXekU",
+      useTemplateId: "4bzV-3W8hUqiyGjDnOB26P3fwrfmxaGJnm5x0CB2eco",
+      province: "重庆",
+      city: "重庆",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://s.weibo.com/top/summary/",
       festivals: [],
-      customizedDateList: []
+      customizedDateList: [ {"keyword": "love_day", date: "2022-08-31"}]
     },
     {
       name: "老婆2",
